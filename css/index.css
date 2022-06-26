@@ -5,6 +5,7 @@
   font-family: 'Manrope', sans-serif;
 }
 html {
+  font-size: 95%;
   height: 100%;
   scroll-behavior: smooth;
 }

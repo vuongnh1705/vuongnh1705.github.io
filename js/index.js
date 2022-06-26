@@ -4,9 +4,10 @@ const audioLinks = [
   './audio/Bong-Hoa-Chang-Thuoc-Ve-Ta-Wind-Remix-Nhu-Viet-Deus.mp3',
   './audio/CaoOc20-BRayDatGMasewKICM.mp3',
   './audio/Cho-Qua-Lau.mp3',
+  './audio/The-Nights.mp3',
 ];
 const onShowCV = () => {
-  alert('Chưa có 😌');
+  alert('Chưa rảnh để làm 😌');
 };
 const initAudio = () => {
   var audio = document.getElementById('audio');
